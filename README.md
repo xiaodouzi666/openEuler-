@@ -9,4 +9,8 @@
 
 ![daadbd13af996b1bdf3db918559fd31](https://github.com/xiaodouzi666/openEuler-/assets/77219630/aace21b1-410b-4dbf-aff1-e728a115a5a1)
 
-以上是安装pytorch的rpm时候新增加的一些其他的rpm的依赖以及安装成功的截图
+![2ed7d6f84a1d2e0e430069298c3cc1f](https://github.com/xiaodouzi666/openEuler-/assets/77219630/67d9363b-4535-4474-a180-590ab722b73c)
+
+![43378d7968bb7e0eb7bc1736a55855d](https://github.com/xiaodouzi666/openEuler-/assets/77219630/e448e037-5a3b-45b4-9d43-9795e4aa5033)
+
+以上是安装pytorch的rpm时候新增加的一些其他的rpm的依赖以及安装成功的截图。
