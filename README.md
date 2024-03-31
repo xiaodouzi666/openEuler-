@@ -19,7 +19,8 @@
 ![image](https://github.com/xiaodouzi666/openEuler-/assets/77219630/3682460b-c154-4dab-8aff-95331eb9dba6)
 
 重新修改Requires: glibc后，构建成功：
-![7b5148032b9381d232c69a34dff2366](https://github.com/xiaodouzi666/openEuler-/assets/77219630/8260d694-4e18-48af-a47c-67fea42056bf)
+![eed9113b272f8706079b45bc1e41af0](https://github.com/xiaodouzi666/openEuler-/assets/77219630/85fe2211-611d-4276-8471-568b4db18a2b)
+
 
 尝试dnf install，不再报错，成功安装：
 
