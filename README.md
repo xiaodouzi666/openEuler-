@@ -23,7 +23,8 @@
 
 尝试dnf install，不再报错，成功安装：
 
-![077a4253fffee19f50888b6c97a1cca](https://github.com/xiaodouzi666/openEuler-/assets/77219630/3e1a1d2e-658a-405e-bec8-b1b908098b8b
+![077a4253fffee19f50888b6c97a1cca](https://github.com/xiaodouzi666/openEuler-/assets/77219630/71899bf9-36d4-4f27-a0b9-b5fad0d96e29)
+
 
 
 # 在openEuler 22.03 (LTS-SP2)的服务器上进行部署AI推理应用
