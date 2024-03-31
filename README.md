@@ -48,3 +48,22 @@
 
 3、构建了**图片分类** AI推理应用，并使用Gradio实现了前端用户自行上传图片，并实现推理结果显示功能：
 
+![image](https://github.com/xiaodouzi666/openEuler-/assets/77219630/43779e23-8028-4243-abda-2991257fb7dd)
+
+将相关链接放到浏览器中打开，效果如下：
+
+![image](https://github.com/xiaodouzi666/openEuler-/assets/77219630/8369e2a5-3d04-450d-8488-d82597c4711d)
+
+上传相关图片，输出图片对应分类的label，label对应的类别需要去huggingface hub中对应模型仓库中查看映射表。
+
+![image](https://github.com/xiaodouzi666/openEuler-/assets/77219630/adc7d5e5-f541-4449-8fcb-ae6fe5bcb925)
+
+4、构建了**图片风格重绘** AI推理应用，用户上传自己的自拍或其他照片，即可实现风格重绘。代码节选如下：
+
+![image](https://github.com/xiaodouzi666/openEuler-/assets/77219630/c57393a3-97ac-4908-b6eb-55de5f833adb)
+
+
+# 比赛总结
+
+这次比赛学到了不少东西，特别是rpm包的构建以及spec文件编写，这是以前不具备的技能。另外，相关的pytorch ecosystem软件包，仍有很多原本不存在于openEuler的系统中，后续比赛结束后，如果社区需要，本人可以无偿构建完剩下的全部软件包，社区随时ping我即可：） 
+再次感谢openEuler社区，以及开放原子基金会举办的这次比赛。
