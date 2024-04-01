@@ -1,0 +1,12 @@
+/home/azuki/rpmbuild/BUILD/tokenizers-0.15.2/bindings/python/target/release/deps/libanstyle-129e8e45519229e7.rmeta: /home/azuki/.cargo/registry/src/index.crates.io-6f17d22bba15001f/anstyle-1.0.6/src/lib.rs /home/azuki/.cargo/registry/src/index.crates.io-6f17d22bba15001f/anstyle-1.0.6/src/macros.rs /home/azuki/.cargo/registry/src/index.crates.io-6f17d22bba15001f/anstyle-1.0.6/src/color.rs /home/azuki/.cargo/registry/src/index.crates.io-6f17d22bba15001f/anstyle-1.0.6/src/effect.rs /home/azuki/.cargo/registry/src/index.crates.io-6f17d22bba15001f/anstyle-1.0.6/src/reset.rs /home/azuki/.cargo/registry/src/index.crates.io-6f17d22bba15001f/anstyle-1.0.6/src/style.rs
+
+/home/azuki/rpmbuild/BUILD/tokenizers-0.15.2/bindings/python/target/release/deps/libanstyle-129e8e45519229e7.rlib: /home/azuki/.cargo/registry/src/index.crates.io-6f17d22bba15001f/anstyle-1.0.6/src/lib.rs /home/azuki/.cargo/registry/src/index.crates.io-6f17d22bba15001f/anstyle-1.0.6/src/macros.rs /home/azuki/.cargo/registry/src/index.crates.io-6f17d22bba15001f/anstyle-1.0.6/src/color.rs /home/azuki/.cargo/registry/src/index.crates.io-6f17d22bba15001f/anstyle-1.0.6/src/effect.rs /home/azuki/.cargo/registry/src/index.crates.io-6f17d22bba15001f/anstyle-1.0.6/src/reset.rs /home/azuki/.cargo/registry/src/index.crates.io-6f17d22bba15001f/anstyle-1.0.6/src/style.rs
+
+/home/azuki/rpmbuild/BUILD/tokenizers-0.15.2/bindings/python/target/release/deps/anstyle-129e8e45519229e7.d: /home/azuki/.cargo/registry/src/index.crates.io-6f17d22bba15001f/anstyle-1.0.6/src/lib.rs /home/azuki/.cargo/registry/src/index.crates.io-6f17d22bba15001f/anstyle-1.0.6/src/macros.rs /home/azuki/.cargo/registry/src/index.crates.io-6f17d22bba15001f/anstyle-1.0.6/src/color.rs /home/azuki/.cargo/registry/src/index.crates.io-6f17d22bba15001f/anstyle-1.0.6/src/effect.rs /home/azuki/.cargo/registry/src/index.crates.io-6f17d22bba15001f/anstyle-1.0.6/src/reset.rs /home/azuki/.cargo/registry/src/index.crates.io-6f17d22bba15001f/anstyle-1.0.6/src/style.rs
+
+/home/azuki/.cargo/registry/src/index.crates.io-6f17d22bba15001f/anstyle-1.0.6/src/lib.rs:
+/home/azuki/.cargo/registry/src/index.crates.io-6f17d22bba15001f/anstyle-1.0.6/src/macros.rs:
+/home/azuki/.cargo/registry/src/index.crates.io-6f17d22bba15001f/anstyle-1.0.6/src/color.rs:
+/home/azuki/.cargo/registry/src/index.crates.io-6f17d22bba15001f/anstyle-1.0.6/src/effect.rs:
+/home/azuki/.cargo/registry/src/index.crates.io-6f17d22bba15001f/anstyle-1.0.6/src/reset.rs:
+/home/azuki/.cargo/registry/src/index.crates.io-6f17d22bba15001f/anstyle-1.0.6/src/style.rs:

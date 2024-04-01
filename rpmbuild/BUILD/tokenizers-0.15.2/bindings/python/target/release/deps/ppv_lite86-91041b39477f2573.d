@@ -1,0 +1,11 @@
+/home/azuki/rpmbuild/BUILD/tokenizers-0.15.2/bindings/python/target/release/deps/libppv_lite86-91041b39477f2573.rmeta: /home/azuki/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ppv-lite86-0.2.17/src/lib.rs /home/azuki/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ppv-lite86-0.2.17/src/soft.rs /home/azuki/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ppv-lite86-0.2.17/src/types.rs /home/azuki/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ppv-lite86-0.2.17/src/x86_64/mod.rs /home/azuki/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ppv-lite86-0.2.17/src/x86_64/sse2.rs
+
+/home/azuki/rpmbuild/BUILD/tokenizers-0.15.2/bindings/python/target/release/deps/libppv_lite86-91041b39477f2573.rlib: /home/azuki/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ppv-lite86-0.2.17/src/lib.rs /home/azuki/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ppv-lite86-0.2.17/src/soft.rs /home/azuki/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ppv-lite86-0.2.17/src/types.rs /home/azuki/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ppv-lite86-0.2.17/src/x86_64/mod.rs /home/azuki/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ppv-lite86-0.2.17/src/x86_64/sse2.rs
+
+/home/azuki/rpmbuild/BUILD/tokenizers-0.15.2/bindings/python/target/release/deps/ppv_lite86-91041b39477f2573.d: /home/azuki/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ppv-lite86-0.2.17/src/lib.rs /home/azuki/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ppv-lite86-0.2.17/src/soft.rs /home/azuki/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ppv-lite86-0.2.17/src/types.rs /home/azuki/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ppv-lite86-0.2.17/src/x86_64/mod.rs /home/azuki/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ppv-lite86-0.2.17/src/x86_64/sse2.rs
+
+/home/azuki/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ppv-lite86-0.2.17/src/lib.rs:
+/home/azuki/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ppv-lite86-0.2.17/src/soft.rs:
+/home/azuki/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ppv-lite86-0.2.17/src/types.rs:
+/home/azuki/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ppv-lite86-0.2.17/src/x86_64/mod.rs:
+/home/azuki/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ppv-lite86-0.2.17/src/x86_64/sse2.rs:

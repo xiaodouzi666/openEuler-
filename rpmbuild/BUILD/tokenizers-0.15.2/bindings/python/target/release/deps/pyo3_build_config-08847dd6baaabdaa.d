@@ -1,0 +1,14 @@
+/home/azuki/rpmbuild/BUILD/tokenizers-0.15.2/bindings/python/target/release/deps/libpyo3_build_config-08847dd6baaabdaa.rmeta: /home/azuki/.cargo/registry/src/index.crates.io-6f17d22bba15001f/pyo3-build-config-0.20.2/src/lib.rs /home/azuki/.cargo/registry/src/index.crates.io-6f17d22bba15001f/pyo3-build-config-0.20.2/src/errors.rs /home/azuki/.cargo/registry/src/index.crates.io-6f17d22bba15001f/pyo3-build-config-0.20.2/src/impl_.rs /home/azuki/rpmbuild/BUILD/tokenizers-0.15.2/bindings/python/target/release/build/pyo3-build-config-fcf17d1d2df0ba0c/out/pyo3-build-config-file.txt /home/azuki/rpmbuild/BUILD/tokenizers-0.15.2/bindings/python/target/release/build/pyo3-build-config-fcf17d1d2df0ba0c/out/pyo3-build-config.txt
+
+/home/azuki/rpmbuild/BUILD/tokenizers-0.15.2/bindings/python/target/release/deps/libpyo3_build_config-08847dd6baaabdaa.rlib: /home/azuki/.cargo/registry/src/index.crates.io-6f17d22bba15001f/pyo3-build-config-0.20.2/src/lib.rs /home/azuki/.cargo/registry/src/index.crates.io-6f17d22bba15001f/pyo3-build-config-0.20.2/src/errors.rs /home/azuki/.cargo/registry/src/index.crates.io-6f17d22bba15001f/pyo3-build-config-0.20.2/src/impl_.rs /home/azuki/rpmbuild/BUILD/tokenizers-0.15.2/bindings/python/target/release/build/pyo3-build-config-fcf17d1d2df0ba0c/out/pyo3-build-config-file.txt /home/azuki/rpmbuild/BUILD/tokenizers-0.15.2/bindings/python/target/release/build/pyo3-build-config-fcf17d1d2df0ba0c/out/pyo3-build-config.txt
+
+/home/azuki/rpmbuild/BUILD/tokenizers-0.15.2/bindings/python/target/release/deps/pyo3_build_config-08847dd6baaabdaa.d: /home/azuki/.cargo/registry/src/index.crates.io-6f17d22bba15001f/pyo3-build-config-0.20.2/src/lib.rs /home/azuki/.cargo/registry/src/index.crates.io-6f17d22bba15001f/pyo3-build-config-0.20.2/src/errors.rs /home/azuki/.cargo/registry/src/index.crates.io-6f17d22bba15001f/pyo3-build-config-0.20.2/src/impl_.rs /home/azuki/rpmbuild/BUILD/tokenizers-0.15.2/bindings/python/target/release/build/pyo3-build-config-fcf17d1d2df0ba0c/out/pyo3-build-config-file.txt /home/azuki/rpmbuild/BUILD/tokenizers-0.15.2/bindings/python/target/release/build/pyo3-build-config-fcf17d1d2df0ba0c/out/pyo3-build-config.txt
+
+/home/azuki/.cargo/registry/src/index.crates.io-6f17d22bba15001f/pyo3-build-config-0.20.2/src/lib.rs:
+/home/azuki/.cargo/registry/src/index.crates.io-6f17d22bba15001f/pyo3-build-config-0.20.2/src/errors.rs:
+/home/azuki/.cargo/registry/src/index.crates.io-6f17d22bba15001f/pyo3-build-config-0.20.2/src/impl_.rs:
+/home/azuki/rpmbuild/BUILD/tokenizers-0.15.2/bindings/python/target/release/build/pyo3-build-config-fcf17d1d2df0ba0c/out/pyo3-build-config-file.txt:
+/home/azuki/rpmbuild/BUILD/tokenizers-0.15.2/bindings/python/target/release/build/pyo3-build-config-fcf17d1d2df0ba0c/out/pyo3-build-config.txt:
+
+# env-dep:CARGO_PKG_VERSION=0.20.2
+# env-dep:OUT_DIR=/home/azuki/rpmbuild/BUILD/tokenizers-0.15.2/bindings/python/target/release/build/pyo3-build-config-fcf17d1d2df0ba0c/out
